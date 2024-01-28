@@ -5,13 +5,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmdrozhin" alt="dmdrozhin" /></a> </p> -->
 
-- 🌱 I’m currently learning **nuxt**
-
-- 💬 Ask me about **vue**
-
 - 📫 How to reach me **ddrozhin@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WrvoDqNt3t_LCr19lt1O6R56sarMn01G/view?usp=drive_link](https://drive.google.com/file/d/1WrvoDqNt3t_LCr19lt1O6R56sarMn01G/view?usp=drive_link)
+
+- 🌱 I’m currently learning **nuxt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
