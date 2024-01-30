@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ddrozhin@gmail.com**
 
-- 📄 Know about my experiences [dmdrozhin.github.io/ddrzohin-cv/](https://dmdrozhin.github.io/ddrzohin-cv/)
+- 📄 Know about my experiences [https://dmdrozhin.github.io/ddrzohin-cv/](https://dmdrozhin.github.io/ddrzohin-cv/)
 
 <!--- 🌱 I’m currently learning **nuxt** -->
 
