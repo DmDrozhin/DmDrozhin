@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitriy</h1>
-<h3 align="center">I'm a Vue.js developer with experience of 2 years</h3>
+<h3 align="center">I am a Vue.js developer with 2 years of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmdrozhin&label=Profile%20views&color=0e75b6&style=flat" alt="dmdrozhin" /> </p>
 
