@@ -5,13 +5,19 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmdrozhin" alt="dmdrozhin" /></a> </p> -->
 
-- 📫 How to reach me **ddrozhin@gmail.com**
+<h3 align="left">Connect with me:</h3>
 
-- 📄 Know about my experiences [My CV](https://dmdrozhin.github.io/ddrzohin-cv/)
+- 📧 How to reach me **ddrozhin@gmail.com**
+
+- 🌐 [Telegram](https://t.me/DDrozhin)
+
+<h3 align="left">My CV:</h3>
+  
+- 📝 Know about my experiences [My CV](https://dmdrozhin.github.io/ddrzohin-cv/)
 
 <!--- 🌱 I’m currently learning **nuxt** -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My socials accounts:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dmitriy-drozhzhin-58aa30152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dmitriy-drozhzhin-58aa30152/" height="30" width="40" /></a>
 <a href="https://fb.com/dm.drozhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dm.drozhin" height="30" width="40" /></a>
