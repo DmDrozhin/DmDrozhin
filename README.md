@@ -7,7 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 📧 How to reach me **ddrozhin@gmail.com**
+- 📧 ddrozhin@gmail.com
+
+<!-- 📧 **ddrozhin@gmail.com** -->
 
 - 🌐 [Telegram](https://t.me/DDrozhin)
 
