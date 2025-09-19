@@ -15,7 +15,7 @@
 
 <h3 align="left">My CV:</h3>
   
-- 📝 Know about my experiences [My CV](https://dmdrozhin.github.io/ddrzohin-cv/)
+- 📝 Know about my experiences [My CV](https://dmdrozhin.github.io/DmDrzohin-CV-2025/)
 
 <!--- 🌱 I’m currently learning **nuxt** -->
 
