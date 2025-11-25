@@ -27,7 +27,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none!important; text-decoration-skip-ink: auto;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/ title="Vue.js"> </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none!important; text-decoration-line: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/ title="Vue.js"> </a>
  &emsp;
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer" style="text-decoration: none!important;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" alt="vuetify" width="40" height="40"/ title="Vuetify UI framework"> </a>
   &emsp;
