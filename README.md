@@ -1,6 +1,6 @@
 # Hi there, I'm Dmytro Drozhzhyn 👋
 
-### Frontend Developer (Vue.js) | UI/UX Enthusiast | Freelancer
+### Frontend Developer (Vue.js)
 
 I am a result-oriented Frontend Developer with 3+ years of commercial experience building scalable, high-performance web applications. I specialize in the **Vue 2/3 ecosystem** and have a strong focus on clean architecture, SEO optimization, and performance based on Lighthouse metrics.
 
